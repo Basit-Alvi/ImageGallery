@@ -18,7 +18,7 @@ A fully functional responsive image gallery with HTML, CSS, and JavaScript.
 - Next/Previous buttons for image navigation
 - Keyboard navigation (Arrow keys, Escape)
 - Click outside to close lightbox
-- Image counter showing current position
+- Image counter showing current position.
 
 ✅ **Responsive Design**:
 - Mobile-first approach
